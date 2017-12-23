@@ -1,0 +1,45 @@
+1 John Says : Hi ... do you want to sit?
+A Yes
+B No
+1A How would you like to interact with John?
+A Compliment
+B Insult
+1B How would you like to interact with John?
+A Compliment
+B Insult
+2AA John says : So uhm... do you like junk food?
+A Yes!  What's your favorite junk food?
+B No, junk food is gross..
+2AB John says : So uhm... do you have an issue with me being Asian?
+A No, I was just joking you!
+B Yes, but it's ok I can deal with it...
+3AAA
+A a
+B a
+3AAB
+A a
+B a
+3ABA
+A a
+B a
+3ABB
+A a
+B a
+2BA John says : So uhm... do you like junk food?
+A Yes!  What's your favorite junk food?
+B No, junk food is gross..
+2BB John says : Your face looks like mike meyers...
+A Hey hey hey, it was just a joke poopy head..
+B Goodbye sir!
+3BAA a
+A a
+B a
+3BAB a
+A a
+B a
+3BBA a
+A a
+B a
+3BBB a
+A a
+B a

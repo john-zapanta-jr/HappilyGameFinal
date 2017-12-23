@@ -1,0 +1,45 @@
+1 John Says : Do you know what you want to order?
+A Bacon-Tuna melt
+B Something that's not a bacon-tuna melt
+1A *The food comes*
+A Yum, great minds think alike
+B Yuck, you like this?
+1B *The food comes, you don't like it*
+A *Take a bite of John's*
+B *EAT ALL OF JOHN'S MUAHAHHA*
+2AA *John grumbles somthing, sounds like I love you*
+A *smile* What did you say?
+B *disgusted face* What did you say?
+2AB *John grumbles somthing, sounds like I love you*
+A *smile* What did you say?
+B *disgusted face* What did you say?
+3AAA
+A a
+B a
+3AAB
+A a
+B a
+3ABA
+A a
+B a
+3ABB
+A a
+B a
+2BA *John grumbles somthing, sounds like I love you*
+A *smile* What did you say?
+B *disgusted face* What did you say?
+2BB *John grumbles somthing, sounds like I love you*
+A *smile* What did you say?
+B *disgusted face* What did you say?
+3BAA a
+A a
+B a
+3BAB a
+A a
+B a
+3BBA a
+A a
+B a
+3BBB a
+A a
+B a

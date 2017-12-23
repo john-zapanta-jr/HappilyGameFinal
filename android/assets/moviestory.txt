@@ -1,0 +1,45 @@
+1 John Says : So do you like scary movies?
+A Yes
+B No
+1A *A ghost pops up on the screen*
+A *get scared*
+B *it doesn't phase you*
+1B *A ghost pops up on the screen*
+A *get scared*
+B *it doesn't phase you*
+2AA John Says: It's ok I'll protect you!
+A Thanks! *Lean on john*
+B No, gross..
+2AB John Says: It's ok I'll protect you!, oh it didn't scare you?, protect me!
+A I got you! *protect John from monsters*
+B No, gross.. Weenie
+3AAA
+A a
+B a
+3AAB
+A a
+B a
+3ABA
+A a
+B a
+3ABB
+A a
+B a
+2BA Hey I'm sorry!  I know you don't like scary movies!
+A It's cool... protect me!
+B You should've asked first before picking the movie doofus!
+2BB Ahh, I can see why scary movies aren't your thing, boring huh?
+A Yes, but I'll protect you!
+B Yes, only losers like them!
+3BAA a
+A a
+B a
+3BAB a
+A a
+B a
+3BBA a
+A a
+B a
+3BBB a
+A a
+B a
